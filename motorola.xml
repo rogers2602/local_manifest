@@ -9,7 +9,7 @@
   <project name="rogers2602/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-20"/>
 
   <!-- kernel -->
-  <project name="rogers2602/xpeng_kernel" path="kernel/motorola/sm7325" remote="github" revision="cherish_tiramissu"/>
+  <project name="rogers2602/xpeng_kernel" path="kernel/motorola/sm7325" remote="github" revision="havoc"/>
 
   <!-- vendor -->
   <project name="rogers2602/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="main"/>
