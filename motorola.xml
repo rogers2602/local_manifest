@@ -14,5 +14,5 @@
   <!-- vendor -->
   <project name="the-muppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="gitlab" revision="lineage-21"/>
   
-  <project name="the-muppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" remote="github" revision="lineage-21"/>
+  <project name="the-muppets/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" remote="gitlab" revision="lineage-21"/>
 </manifest>
