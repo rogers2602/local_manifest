@@ -4,7 +4,7 @@
   
   <project name="rogers2602/android_device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="lineage-20"/>
   
-  <project name="rogers2602/android_device_motorola_xpeng" path="device/motorola/xpeng" remote="github" revision="crdroid_customthermal"/>
+  <project name="rogers2602/android_device_motorola_xpeng" path="device/motorola/xpeng" remote="github" revision="lineage-20"/>
   
   <project name="rogers2602/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-20"/>
 
@@ -12,7 +12,7 @@
   <project name="rogers2602/xpeng_kernel" path="kernel/motorola/sm7325" remote="github" revision="lineage-20"/>
 
   <!-- vendor -->
-  <project name="rogers2602/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="main"/>
+  <project name="rogers2602/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="lineage-20"/>
   
-  <project name="rogers2602/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" remote="github" revision="main"/>
+  <project name="rogers2602/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" remote="github" revision="lineage-20"/>
 </manifest>
