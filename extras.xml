@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="rogers2602/android_system_qcom" path="system/qcom" remote="github" revision="lineage-20"/>
+  <project name="rogers2602/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21"/>
 </manifest>
