@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- device trees -->  
-  <project name="rogers2602/device_xiaomi_peridot" path="device/xiaomi/peridot" remote="github" revision="peridot-15.0"/>
+  <project name="rogers2602/device_xiaomi_peridot" path="device/xiaomi/peridot" remote="github" revision="16"/>
   
   <project name="rogers2602/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="16"/>
 
